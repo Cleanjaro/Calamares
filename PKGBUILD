@@ -2,7 +2,7 @@
 # Contributor: Philip Müller <philm_manjaro.org>
 
 pkgname=calamares
-pkgver=3.2.18
+pkgver=3.2.20
 pkgrel=0.1
 pkgdesc='Distribution-independent installer framework'
 arch=('x86_64')
